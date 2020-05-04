@@ -11,7 +11,6 @@ export default class Newsitems extends React.Component {
 }
 
   render() {
-    console.log(this.state.data);
     return (
         <div>
             <h1>District Wise COVID Data in TN</h1>
