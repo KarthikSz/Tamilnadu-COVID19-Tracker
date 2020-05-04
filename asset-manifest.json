@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Tamilnadu-COVID19-Tracker/static/css/main.1359096b.chunk.css",
-    "main.js": "/Tamilnadu-COVID19-Tracker/static/js/main.56a5deb9.chunk.js",
+    "main.js": "/Tamilnadu-COVID19-Tracker/static/js/main.8c131ef2.chunk.js",
     "runtime-main.js": "/Tamilnadu-COVID19-Tracker/static/js/runtime-main.a3a34e29.js",
     "static/js/2.7b12fd1e.chunk.js": "/Tamilnadu-COVID19-Tracker/static/js/2.7b12fd1e.chunk.js",
     "index.html": "/Tamilnadu-COVID19-Tracker/index.html",
-    "precache-manifest.0231fefa21180a510e85a33f78f7223f.js": "/Tamilnadu-COVID19-Tracker/precache-manifest.0231fefa21180a510e85a33f78f7223f.js",
+    "precache-manifest.9027099f823d41bdf3c0cf400bbdc4b4.js": "/Tamilnadu-COVID19-Tracker/precache-manifest.9027099f823d41bdf3c0cf400bbdc4b4.js",
     "service-worker.js": "/Tamilnadu-COVID19-Tracker/service-worker.js",
     "static/js/2.7b12fd1e.chunk.js.LICENSE.txt": "/Tamilnadu-COVID19-Tracker/static/js/2.7b12fd1e.chunk.js.LICENSE.txt"
   },
@@ -13,6 +13,6 @@
     "static/js/runtime-main.a3a34e29.js",
     "static/js/2.7b12fd1e.chunk.js",
     "static/css/main.1359096b.chunk.css",
-    "static/js/main.56a5deb9.chunk.js"
+    "static/js/main.8c131ef2.chunk.js"
   ]
 }

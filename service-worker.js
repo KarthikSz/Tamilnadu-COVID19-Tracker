@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Tamilnadu-COVID19-Tracker/precache-manifest.0231fefa21180a510e85a33f78f7223f.js"
+  "/Tamilnadu-COVID19-Tracker/precache-manifest.9027099f823d41bdf3c0cf400bbdc4b4.js"
 );
 
 self.addEventListener('message', (event) => {

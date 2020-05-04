@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6422c605f425f41b7a173ea6c0753525",
+    "revision": "c2d05bf0b66f379ccc1d09ce74c57ef0",
     "url": "/Tamilnadu-COVID19-Tracker/index.html"
   },
   {
-    "revision": "6732b59598fa1b2e9f9b",
+    "revision": "de8c63e261ef346eec8f",
     "url": "/Tamilnadu-COVID19-Tracker/static/css/main.1359096b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tamilnadu-COVID19-Tracker/static/js/2.7b12fd1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6732b59598fa1b2e9f9b",
-    "url": "/Tamilnadu-COVID19-Tracker/static/js/main.56a5deb9.chunk.js"
+    "revision": "de8c63e261ef346eec8f",
+    "url": "/Tamilnadu-COVID19-Tracker/static/js/main.8c131ef2.chunk.js"
   },
   {
     "revision": "b553c206bd3efed30a0e",
